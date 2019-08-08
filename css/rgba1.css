@@ -1,3 +1,17 @@
+body {
+    background: #ee5522;
+}
+
 li {
-    color: rgba(0, 255, 0, .3);
+    color: rgba(0, 255, 0, 1);
+}
+
+h4 {
+    background: #ff34bb;
+}
+
+h1 {
+    border-color: #33ffff;
+    border-width: 3px;
+    border-style: solid;
 }

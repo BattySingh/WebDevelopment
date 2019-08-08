@@ -1,0 +1,37 @@
+/*
+border: 20 px, bdc3c7
+date : 3498db
+h2 : 2c3e50
+
+font: source sans pro
+*/
+
+body {
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 20px;
+    border: 20px solid #bdc3c7;
+    font-family: 'source sans pro';
+    font-weight: bold;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.upper {
+    text-transform: uppercase;
+    line-height: 1.5;
+    color: #3498db;
+}
+
+h2 {
+    color: #2c3e50;
+}
+
+.special {
+    border-left: 5px solid #bdc3c7;
+    padding-left: 5px;
+}
+
+hr {
+    width: 95%;
+}
