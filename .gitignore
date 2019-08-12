@@ -242,6 +242,7 @@ ModelManifest.xml
 .fake/
 
 
-bootstrap/
+bootstrap/css/
+bootstrap/js/
 typeScript/node_modules/
 typeScript/package-lock.json
