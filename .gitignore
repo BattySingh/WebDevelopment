@@ -246,3 +246,9 @@ bootstrap/css/
 bootstrap/js/
 typeScript/node_modules/
 typeScript/package-lock.json
+angular_apps/recipeSite/e2e/
+angular_apps/recipeSite/node_modules/
+angular_apps/recipeSite/.*
+angular_apps/recipeSite/*.json
+angular_apps/recipeSite/*.js
+angular_apps/recipeSite/browserslist
