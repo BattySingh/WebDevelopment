@@ -1,0 +1,1 @@
+confirm("Do you like this!");
