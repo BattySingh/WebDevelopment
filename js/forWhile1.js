@@ -7,5 +7,5 @@ for (var count = 0; count < text.length; count++) {
 var count = 0;
 while(count < text.length) {
     console.log(text[count]);
-    count++;
+    count++; //used post increment operator
 }
